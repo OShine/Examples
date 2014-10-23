@@ -1,4 +1,2 @@
-Examples
-========
-
-Python Examples
+Python-Examples
+===============
