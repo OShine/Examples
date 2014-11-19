@@ -1,3 +1,14 @@
-a = [-1, 1, 66.6, 333, 333, 1234.5]
-del a[5]
-print(a)
+def fib(n):
+    a, b = 0, 1
+    while b < n:
+        print b,
+        a, b = b, a+b
+
+def fibList(n):
+    result = []
+    a, b = 0, 1
+    while b < n:
+        result.append(b)
+        a, b = b, a+b
+    print(result)
+fib(15)
