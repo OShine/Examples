@@ -11,4 +11,4 @@ def fibList(n):
         result.append(b)
         a, b = b, a+b
     print(result)
-fib(15)
+fib(20)
