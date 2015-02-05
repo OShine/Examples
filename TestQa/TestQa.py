@@ -12,3 +12,4 @@ def fibList(n):
         a, b = b, a+b
     print(result)
 fib(20)
+ 
