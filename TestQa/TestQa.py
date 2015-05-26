@@ -1,15 +1,8 @@
-def fib(n):
-    a, b = 0, 1
-    while b < n:
-        print b,
-        a, b = b, a+b
-
-def fibList(n):
-    result = []
-    a, b = 0, 1
-    while b < n:
-        result.append(b)
-        a, b = b, a+b
-    print(result)
-fib(20)
- 
+minutes = int(raw_input())
+a = minutes % 60
+if minutes < 60:
+    print(str(0) + " hours")
+    print(str(a) + " minutes")
+else:
+    print(str(minutes/60) + " hours")
+    print(str(a) + " minutes")
