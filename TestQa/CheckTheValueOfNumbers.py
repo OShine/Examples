@@ -1,3 +1,7 @@
+#!/usr/bin/python
+# -*- coding: latin-1 -*-
+import os, sys
+
 while True:
     try:
         x = int(raw_input("Enter the number for check: "))
