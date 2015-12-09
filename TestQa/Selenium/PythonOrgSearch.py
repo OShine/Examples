@@ -23,3 +23,5 @@ class PythonOrgSearch(unittest.TestCase):
 
 if __name__ == "__main__":
     unittest.main()
+
+# http://username:password@the-site.com
