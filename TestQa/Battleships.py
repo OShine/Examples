@@ -20,8 +20,8 @@ def random_col(board):
 
 ship_row = random_row(board)
 ship_col = random_col(board)
-#print ship_row
-#print ship_col
+#print ship_row + 1
+#print ship_col + 1
 
 for turn in range(5):
 # Everything from here on should go in your for loop!
