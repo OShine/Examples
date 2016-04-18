@@ -1,11 +1,10 @@
 __author__ = 'd.shklyannik'
 
-import unittest
 from selenium import webdriver
 import page
+import unittest
 
 class PythonOrgSearch(unittest.TestCase):
-
     def setUp(self):
         self.driver = webdriver.Firefox()
         self.driver.get("http://www.python.org")
@@ -21,7 +20,8 @@ class PythonOrgSearch(unittest.TestCase):
     def tearDown(self):
         self.driver.close()
 
+
 if __name__ == "__main__":
     unittest.main()
 
-# http://username:password@the-site.com
+    # http://username:password@the-site.com
