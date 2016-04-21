@@ -1,2 +1,12 @@
-fib = lambda x : 1 if x <= 2 else fib(x - 1) + fib(x - 2)
-print(fib(31))
+a = int(input('Please, enter the year:'))
+
+if a % 4 == 0:
+    if a % 100 == 0:
+        if a % 400 == 0:
+            print('Високосный')
+        else:
+            print('Обычный')
+    else:
+        print('Високосный')
+else:
+    print('Обычный')
