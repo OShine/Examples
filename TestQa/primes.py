@@ -30,5 +30,6 @@ def primes(n):
 
     del a
     return b
+
 value = int(input("Please, enter the value: "))
 print(primes(value))
