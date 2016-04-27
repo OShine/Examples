@@ -30,5 +30,5 @@ def primes(n):
 
     del a
     return b
-
-print(primes(100))
+value = int(input("Please, enter the value: "))
+print(primes(value))
