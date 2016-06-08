@@ -3,7 +3,7 @@
 # -*- coding: latin-1 -*-
 
 
-from Person import Person
+from person import Person
 
 # обявление объекта класса
 person1 = Person()
