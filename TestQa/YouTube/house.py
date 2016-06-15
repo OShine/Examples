@@ -1,4 +1,4 @@
-from TestQa.YouTube.person import *
+from TestQa.YouTube.Person import *
 
 
 class House:
