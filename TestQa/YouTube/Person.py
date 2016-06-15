@@ -26,10 +26,10 @@ class Person:
         return self.__address
 
     def description_of_person(self):
-        print("\n")
         print("Hi! My name is", self.__name)
         print("I am", self.__age, "years old")
         print("My address is", self.__address, "")
+        print("\n")
 
     @staticmethod
     def testStatic():
