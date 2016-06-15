@@ -5,6 +5,9 @@ class House:
     __address = "n/a"
     __list_of_residents = ["n/a"]
 
+    def __init__(self, a):
+        self.__address = a
+
     def set_address(self, a):
         self.__address = a
 
