@@ -1,8 +1,9 @@
 __author__ = 'd.shklyannik'
 
-from selenium import webdriver
-import page
 import unittest
+
+from page import *
+from selenium import webdriver
 
 
 class PythonOrgSearch(unittest.TestCase):
