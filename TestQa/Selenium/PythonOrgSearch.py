@@ -4,6 +4,7 @@ from selenium import webdriver
 import page
 import unittest
 
+
 class PythonOrgSearch(unittest.TestCase):
     def setUp(self):
         self.driver = webdriver.Firefox()
