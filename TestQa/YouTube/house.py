@@ -25,7 +25,7 @@ class House:
 
     def description_of_house(self):
         print("\n")
-        print("Address of this house is: ", self.__address)
+        print("Address of this house is:", self.__address)
         print("List of residents:")
         for p in self.__list_of_residents:
             if isinstance(p, Person):
