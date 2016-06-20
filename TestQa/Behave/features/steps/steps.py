@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
-from behave import *
+from TestQa.Behave import *
 from selenium.webdriver.common.by import By
-from selenium.webdriver.firefox import webdriver
+from selenium import webdriver
 from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
 import time
