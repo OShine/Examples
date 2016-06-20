@@ -1,8 +1,9 @@
+
+
 __author__ = 'd.shklyannik'
 
 import unittest
-
-from page import *
+from TestQa.Selenium import page
 from selenium import webdriver
 
 
