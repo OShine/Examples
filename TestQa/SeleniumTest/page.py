@@ -1,7 +1,7 @@
 __author__ = 'd.shklyannik'
 
-from TestQa.Selenium.element import BasePageElement
-from TestQa.Selenium.locators import MainPageLocators
+from TestQa.SeleniumTest.element import BasePageElement
+from TestQa.SeleniumTest.locators import MainPageLocators
 
 
 class SearchTextElement(BasePageElement):
