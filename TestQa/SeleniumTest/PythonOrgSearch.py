@@ -1,16 +1,15 @@
-
 __author__ = 'd.shklyannik'
 
 import unittest
 from TestQa.SeleniumTest import page
+
 from selenium import webdriver
 
 
 class PythonOrgSearch(unittest.TestCase):
     def setUp(self):
-       self.driver = webdriver.Firefox()
-       self.driver.get("http://www.python.org")
-
+        self.driver = webdriver.Firefox()
+        self.driver.get("http://www.python.org")
 
     def test_search_in_python_org(self):
         main_page = page.MainPage(self.driver)

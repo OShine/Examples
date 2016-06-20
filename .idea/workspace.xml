@@ -2,8 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c4ef58de-db39-4536-ad50-91b44ceb29ba" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TestQa/NEWBO/ReportsSearch.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/TestQa/NEWBO/__init__.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/TestQa/Behave/features/steps/steps.py" afterPath="$PROJECT_DIR$/TestQa/Behave/features/steps/steps.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/TestQa/SeleniumTest/PythonOrgSearch.py" afterPath="$PROJECT_DIR$/TestQa/SeleniumTest/PythonOrgSearch.py" />
     </list>
     <ignored path="Examples.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -24,13 +26,13 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="steps.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/TestQa/Behave/features/steps/steps.py">
+      <file leaf-file-name="ReportsSearch.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/TestQa/NEWBO/ReportsSearch.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="238">
-              <caret line="14" column="39" selection-start-line="14" selection-start-column="39" selection-end-line="14" selection-end-column="39" />
+            <state relative-caret-position="408">
+              <caret line="24" column="35" selection-start-line="24" selection-start-column="35" selection-end-line="24" selection-end-column="35" />
               <folding>
-                <element signature="e#24#51#0" expanded="true" />
+                <element signature="e#1#31#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -75,9 +77,13 @@
         <option value="$PROJECT_DIR$/TestQa/Selenium/page.py" />
         <option value="$PROJECT_DIR$/TestQa/Selenium/locators.py" />
         <option value="$PROJECT_DIR$/TestQa/Selenium/PythonOrgSearch.py" />
-        <option value="$PROJECT_DIR$/TestQa/SeleniumTest/PythonOrgSearch.py" />
         <option value="$PROJECT_DIR$/TestQa/SeleniumTest/page.py" />
         <option value="$PROJECT_DIR$/TestQa/Behave/features/steps/steps.py" />
+        <option value="$PROJECT_DIR$/TestQa/NEWBO/Main.py" />
+        <option value="$PROJECT_DIR$/TestQa/SeleniumTest/PythonOrgSearch.py" />
+        <option value="$PROJECT_DIR$/TestQa/NEWBO/__init__.py" />
+        <option value="$PROJECT_DIR$/TestQa/NEWBO/NEWBOSearch.py" />
+        <option value="$PROJECT_DIR$/TestQa/NEWBO/ReportsSearch.py" />
       </list>
     </option>
   </component>
@@ -86,6 +92,25 @@
     <option name="y" value="-8" />
     <option name="width" value="1830" />
     <option name="height" value="1096" />
+  </component>
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State>
+            <id />
+          </State>
+          <State>
+            <id>Python</id>
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>PyPep8Inspection</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
     <OptionsSetting value="true" id="Add" />
@@ -227,11 +252,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="Behave" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="features" />
+              <option name="myItemId" value="NEWBO" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -256,54 +277,37 @@
       <recent name="D:\GitHub\Examples\TestQa\Behave" />
     </key>
   </component>
-  <component name="RunManager" selected="Python tests.Unittests in PythonOrgSearch">
-    <configuration default="false" name="IntegerOrNot" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python tests.Unittests in ReportsSearch (1)">
+    <configuration default="false" name="Main (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/TestQa" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/TestQa/NEWBO" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="Examples" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/TestQa/IntegerOrNot.py" />
+      <option name="SCRIPT_NAME" value="D:\GitHub\Examples\TestQa\NEWBO\ReportsSearch.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <method />
     </configuration>
-    <configuration default="false" name="nester" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration default="false" name="NEWBOSearch" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/TestQa" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/TestQa/NEWBO" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="Examples" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/TestQa/nester.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <method />
-    </configuration>
-    <configuration default="false" name="Temp" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/TestQa" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="Examples" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/TestQa/Temp.py" />
+      <option name="SCRIPT_NAME" value="D:\GitHub\Examples\TestQa\NEWBO\ReportsSearch.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <method />
@@ -336,6 +340,28 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="Examples" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/TestQa/Selenium/PythonOrgSearch.py" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <option name="PUREUNITTEST" value="true" />
+      <option name="PARAMS" value="" />
+      <option name="USE_PARAM" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="Unittests in ReportsSearch (1)" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/TestQa/NEWBO" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Examples" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/TestQa/NEWBO/ReportsSearch.py" />
       <option name="CLASS_NAME" value="" />
       <option name="METHOD_NAME" value="" />
       <option name="FOLDER_NAME" value="" />
@@ -481,20 +507,66 @@
       <option name="USE_KEYWORD" value="false" />
       <method />
     </configuration>
-    <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.IntegerOrNot" />
-      <item index="1" class="java.lang.String" itemvalue="Python.nester" />
-      <item index="2" class="java.lang.String" itemvalue="Python.Temp" />
+    <configuration default="false" name="Unittests in ReportsSearch" type="tests" factoryName="Unittests" nameIsGenerated="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/TestQa/NEWBO" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Examples" />
+      <option name="SCRIPT_NAME" value="D:\GitHub\Examples\TestQa\NEWBO\ReportsSearch.py" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <option name="PUREUNITTEST" value="true" />
+      <option name="PARAMS" value="" />
+      <option name="USE_PARAM" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="Unittests in ReportsSearch" type="tests" factoryName="Unittests" nameIsGenerated="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/TestQa/NEWBO" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Examples" />
+      <option name="SCRIPT_NAME" value="D:\GitHub\Examples\TestQa\NEWBO\ReportsSearch.py" />
+      <option name="CLASS_NAME" value="ReportsSearch" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_CLASS" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <option name="PUREUNITTEST" value="true" />
+      <option name="PARAMS" value="" />
+      <option name="USE_PARAM" value="false" />
+      <method />
+    </configuration>
+    <list size="7">
+      <item index="0" class="java.lang.String" itemvalue="Python tests.Unittests in ReportsSearch" />
+      <item index="1" class="java.lang.String" itemvalue="Python.Main (1)" />
+      <item index="2" class="java.lang.String" itemvalue="Python.NEWBOSearch" />
       <item index="3" class="java.lang.String" itemvalue="Python.Main" />
       <item index="4" class="java.lang.String" itemvalue="Python tests.Unittests in PythonOrgSearch" />
+      <item index="5" class="java.lang.String" itemvalue="Python tests.Unittests in ReportsSearch" />
+      <item index="6" class="java.lang.String" itemvalue="Python tests.Unittests in ReportsSearch (1)" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python tests.Unittests in PythonOrgSearch" />
-        <item index="1" class="java.lang.String" itemvalue="Python.Main" />
-        <item index="2" class="java.lang.String" itemvalue="Python.IntegerOrNot" />
-        <item index="3" class="java.lang.String" itemvalue="Python.Temp" />
-        <item index="4" class="java.lang.String" itemvalue="Python.nester" />
+        <item index="0" class="java.lang.String" itemvalue="Python tests.Unittests in ReportsSearch (1)" />
+        <item index="1" class="java.lang.String" itemvalue="Python.NEWBOSearch" />
+        <item index="2" class="java.lang.String" itemvalue="Python.Main (1)" />
+        <item index="3" class="java.lang.String" itemvalue="Python tests.Unittests in PythonOrgSearch" />
+        <item index="4" class="java.lang.String" itemvalue="Python.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -631,33 +703,46 @@
       <option name="project" value="LOCAL" />
       <updated>1466417578133</updated>
     </task>
-    <option name="localTasksCounter" value="18" />
+    <task id="LOCAL-00018" summary="Python 3.5&#10;SeleniumTest Changes">
+      <created>1466417688105</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1466417688105</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="Selenium - 2015.11.26 at 11h 49m 49s.xml">
-      <configuration name="Selenium" configurationId="tests" />
+    <history-entry file="Unittests_in_ReportsSearch_(1) - 2016.06.20 at 16h 40m 50s.xml">
+      <configuration name="Unittests in ReportsSearch (1)" configurationId="tests" />
     </history-entry>
-    <history-entry file="Unittests_in_PythonOrgSearch - 2016.06.19 at 23h 03m 02s.xml">
-      <configuration name="Unittests in PythonOrgSearch" configurationId="tests" />
+    <history-entry file="Unittests_in_ReportsSearch_(1) - 2016.06.20 at 16h 41m 22s.xml">
+      <configuration name="Unittests in ReportsSearch (1)" configurationId="tests" />
     </history-entry>
-    <history-entry file="Unittests_in_PythonOrgSearch - 2016.06.20 at 09h 55m 04s.xml">
-      <configuration name="Unittests in PythonOrgSearch" configurationId="tests" />
+    <history-entry file="Unittests_in_ReportsSearch_(1) - 2016.06.20 at 16h 42m 59s.xml">
+      <configuration name="Unittests in ReportsSearch (1)" configurationId="tests" />
     </history-entry>
-    <history-entry file="Unittests_in_PythonOrgSearch - 2016.06.20 at 10h 01m 14s.xml">
-      <configuration name="Unittests in PythonOrgSearch" configurationId="tests" />
+    <history-entry file="Unittests_in_ReportsSearch_(1) - 2016.06.20 at 16h 45m 24s.xml">
+      <configuration name="Unittests in ReportsSearch (1)" configurationId="tests" />
     </history-entry>
-    <history-entry file="Unittests_in_PythonOrgSearch - 2016.06.20 at 11h 48m 27s.xml">
-      <configuration name="Unittests in PythonOrgSearch" configurationId="tests" />
+    <history-entry file="Unittests_in_ReportsSearch_(1) - 2016.06.20 at 16h 46m 50s.xml">
+      <configuration name="Unittests in ReportsSearch (1)" configurationId="tests" />
     </history-entry>
-    <history-entry file="Unittests_in_PythonOrgSearch - 2016.06.20 at 11h 53m 09s.xml">
-      <configuration name="Unittests in PythonOrgSearch" configurationId="tests" />
+    <history-entry file="Unittests_in_ReportsSearch_(1) - 2016.06.20 at 16h 49m 29s.xml">
+      <configuration name="Unittests in ReportsSearch (1)" configurationId="tests" />
     </history-entry>
-    <history-entry file="Unittests_in_PythonOrgSearch - 2016.06.20 at 12h 30m 34s.xml">
-      <configuration name="Unittests in PythonOrgSearch" configurationId="tests" />
+    <history-entry file="Unittests_in_ReportsSearch_(1) - 2016.06.20 at 16h 49m 56s.xml">
+      <configuration name="Unittests in ReportsSearch (1)" configurationId="tests" />
     </history-entry>
-    <history-entry file="Unittests_in_PythonOrgSearch - 2016.06.20 at 13h 10m 53s.xml">
-      <configuration name="Unittests in PythonOrgSearch" configurationId="tests" />
+    <history-entry file="Unittests_in_ReportsSearch_(1) - 2016.06.20 at 16h 55m 26s.xml">
+      <configuration name="Unittests in ReportsSearch (1)" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_ReportsSearch_(1) - 2016.06.20 at 16h 56m 12s.xml">
+      <configuration name="Unittests in ReportsSearch (1)" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_ReportsSearch_(1) - 2016.06.20 at 16h 58m 29s.xml">
+      <configuration name="Unittests in ReportsSearch (1)" configurationId="tests" />
     </history-entry>
   </component>
   <component name="TodoView">
@@ -675,14 +760,14 @@
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.1953125" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32987553" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32905295" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25726143" sideWeight="0.50223213" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32780084" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32636657" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25726143" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25726143" sideWeight="0.49776787" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32744783" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39937758" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -719,46 +804,11 @@
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <option name="time" value="2" />
+      <option name="time" value="4" />
     </breakpoint-manager>
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/TestQa/SeleniumTest/page.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="21" column="22" selection-start-line="21" selection-start-column="16" selection-end-line="21" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/TestQa/SeleniumTest/locators.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="7" column="40" selection-start-line="7" selection-start-column="40" selection-end-line="7" selection-end-column="40" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/TestQa/SeleniumTest/element.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="18" column="38" selection-start-line="18" selection-start-column="38" selection-end-line="18" selection-end-column="38" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/TestQa/SeleniumTest/PythonOrgSearch.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="24" column="19" selection-start-line="24" selection-start-column="19" selection-end-line="24" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/TestQa/SeleniumTest/page.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="21" column="22" selection-start-line="21" selection-start-column="16" selection-end-line="21" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/TestQa/SeleniumTest/locators.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -1012,24 +1062,8 @@
         <state relative-caret-position="187">
           <caret line="11" column="26" selection-start-line="11" selection-start-column="26" selection-end-line="11" selection-end-column="26" />
           <folding>
-            <element signature="e#60#100#0" expanded="true" />
+            <element signature="e#60#100#0" expanded="false" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/TestQa/SeleniumTest/__init__.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/TestQa/SeleniumTest/element.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" column="0" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1041,18 +1075,46 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/TestQa/Behave/features/steps/steps.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" column="39" selection-start-line="14" selection-start-column="39" selection-end-line="14" selection-end-column="39" />
+          <folding>
+            <element signature="e#24#51#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TestQa/SeleniumTest/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="27" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/TestQa/SeleniumTest/PythonOrgSearch.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="0" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="30" />
+        <state relative-caret-position="221">
+          <caret line="13" column="33" selection-start-line="13" selection-start-column="8" selection-end-line="13" selection-end-column="33" />
+          <folding>
+            <element signature="e#29#44#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TestQa/NEWBO/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="27" selection-start-line="0" selection-start-column="27" selection-end-line="0" selection-end-column="27" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/TestQa/SeleniumTest/page.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" column="24" selection-start-line="3" selection-start-column="24" selection-end-line="3" selection-end-column="24" />
+        <state relative-caret-position="119">
+          <caret line="8" column="0" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
           <folding />
         </state>
       </provider>
@@ -1065,12 +1127,44 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/TestQa/Behave/features/steps/steps.py">
+    <entry file="file://$PROJECT_DIR$/TestQa/SeleniumTest/element.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="14" column="39" selection-start-line="14" selection-start-column="39" selection-end-line="14" selection-end-column="39" />
+        <state relative-caret-position="306">
+          <caret line="18" column="0" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/DevTools/Python/Anaconda/Lib/site-packages/selenium/webdriver/remote/remote_connection.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="268">
+          <caret line="400" column="0" selection-start-line="400" selection-start-column="0" selection-end-line="400" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/DevTools/Python/Anaconda/Lib/unittest/case.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="183">
+          <caret line="599" column="20" selection-start-line="599" selection-start-column="0" selection-end-line="599" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/DevTools/Python/Anaconda/Lib/site-packages/selenium/webdriver/remote/webdriver.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="229">
+          <caret line="292" column="0" selection-start-line="292" selection-start-column="0" selection-end-line="292" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TestQa/NEWBO/ReportsSearch.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="408">
+          <caret line="24" column="35" selection-start-line="24" selection-start-column="35" selection-end-line="24" selection-end-column="35" />
           <folding>
-            <element signature="e#24#51#0" expanded="true" />
+            <element signature="e#1#31#0" expanded="true" />
           </folding>
         </state>
       </provider>
