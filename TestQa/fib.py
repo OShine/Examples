@@ -11,5 +11,5 @@ def fib(n):
         a, b = b, a + b
     return result
 
-
-print(fib(2000))
+number = int(input("Please, enter limit value of searching: "))
+print(fib(number))
