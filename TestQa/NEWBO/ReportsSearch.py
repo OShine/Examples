@@ -2,7 +2,7 @@
 from selenium import webdriver
 import unittest
 
-base_url = "http://SMARTLOG\D.shklyannik:Happy12345@vm-app.smartlog.loc/BackOffice/Reports/"
+base_url = "http://user:password@url"
 
 class ReportsSearch(unittest.TestCase):
     def setUp(self):
